@@ -1,3 +1,10 @@
+### Project Specific ###
+dist
+static
+.module-cache
+
+
+
 ### macOS ###
 *.DS_Store
 .AppleDouble
